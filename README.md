@@ -1,0 +1,1 @@
+This is a simple website where user can use it just for fun. In this website user have to enter name and then he/she will get an character image to show his/her personality according to there name.This project is created by using API along with HTML CSS and Javascript.
